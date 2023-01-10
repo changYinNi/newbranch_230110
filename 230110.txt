@@ -1,0 +1,10 @@
+mklink /d "C:\Program Files\Google\Chrome" "D:\Google\Chrome"
+mklink /d  "C:\Program Files\Google\Chrome"  "D:\Google\Chrome"
+mklink /d  "C:\Program Files (x86)\Google"  "D:\Google"
+mklink /d  "C:\Users\月光树影\AppData\Local\Google" "D:\Google\PersonData
+
+
+
+https://blog.csdn.net/MoneStar/article/details/114168808?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EESLANDING%7Edefault-3-114168808-blog-107582876.pc_relevant_landingrelevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EESLANDING%7Edefault-3-114168808-blog-107582876.pc_relevant_landingrelevant&utm_relevant_index=6
+
+https://www.zhihu.com/question/57271826/answer/2352710812
